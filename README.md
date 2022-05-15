@@ -9,3 +9,4 @@ Desenvolvedor Full-Stack Angular/ React/ Java / Node 🐱‍👤
 ### About me
 I'm a {backend, frontend and mobile} developer 
 
+![ca6f34a41faaa3de983e5862531209b9](https://user-images.githubusercontent.com/56212999/168494419-1cb1e769-7cd1-4621-88c3-4b3ce3b89246.jpg)
