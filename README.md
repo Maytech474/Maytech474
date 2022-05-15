@@ -14,7 +14,8 @@ I'm a {backend, frontend and mobile} developer
  
 
 
-![WindyClosedFrogmouth-max-1mb](https://user-images.githubusercontent.com/56212999/168494843-fcb816b0-3b80-497c-8056-b86894e20bd4.gif)
+
+![wallpapersden com_the-mandalorian-concept-art_2560x1440](https://user-images.githubusercontent.com/56212999/168494903-78b47ebb-d645-4f87-88c1-ebefd8a244e2.jpg)
 
 
 
