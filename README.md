@@ -18,7 +18,7 @@ I'm a {backend, frontend and mobile} developer
 
 ![wallpapersden com_the-mandalorian-concept-art_2560x1440](https://user-images.githubusercontent.com/56212999/168494903-78b47ebb-d645-4f87-88c1-ebefd8a244e2.jpg)
 
-                                                                       Thank you!
+                                                                    Thank you!
 
 
 
