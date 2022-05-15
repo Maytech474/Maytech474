@@ -10,7 +10,10 @@ Desenvolvedor Full-Stack Angular/ React/ Java / Node 🐱‍👤
 I'm a {backend, frontend and mobile} developer 
 ![wp8903896 (1)](https://user-images.githubusercontent.com/56212999/168494590-a365e58b-99f0-45a1-bc2e-c1a160079cad.jpg)
 
- ![ca6f34a41faaa3de983e5862531209b9](https://user-images.githubusercontent.com/56212999/168494419-1cb1e769-7cd1-4621-88c3-4b3ce3b89246.jpg) ![wp10167109](https://user-images.githubusercontent.com/56212999/168494678-f9669021-b046-4119-ae72-eeb64122116b.jpg)
+ ![ca6f34a41faaa3de983e5862531209b9](https://user-images.githubusercontent.com/56212999/168494419-1cb1e769-7cd1-4621-88c3-4b3ce3b89246.jpg) ![web-development-minimalism-wallpaper-preview](https://user-images.githubusercontent.com/56212999/168494728-3a59827b-f495-41dd-9970-73395c6a7a98.jpg)
+ 
+ ![wp10167109](https://user-images.githubusercontent.com/56212999/168494678-f9669021-b046-4119-ae72-eeb64122116b.jpg)
+
 
 
 
