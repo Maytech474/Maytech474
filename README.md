@@ -11,7 +11,7 @@ I'm a {backend, frontend and mobile} developer
 
 ![wp8903896 (1)](https://user-images.githubusercontent.com/56212999/168494590-a365e58b-99f0-45a1-bc2e-c1a160079cad.jpg)
 
- wallpaper-preview](https://user-images.githubusercontent.com/56212999/168494728-3a59827b-f495-41dd-9970-73395c6a7a98.jpg)
+
  
 
 
