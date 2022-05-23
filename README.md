@@ -20,10 +20,10 @@ I'm a {backend, frontend and mobile} developer <img src="https://img.icons8.com/
 
                                                                 <p>Thank you!</p>
                                                                 
-                                                                Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59007.15548463358!2d-46.993459458695405!3d-22.43101237536106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8f84855093d7d%3A0xf5faf40f7066c656!2sMogi%20Mirim%2C%20SP!5e0!3m2!1spt-BR!2sbr!4v1653323208625!5m2!1spt-BR!2sbr" width="200" height="120" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        
                                                                 
                                                                     
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59007.15548463358!2d-46.993459458695405!3d-22.43101237536106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8f84855093d7d%3A0xf5faf40f7066c656!2sMogi%20Mirim%2C%20SP!5e0!3m2!1spt-BR!2sbr!4v1653323208625!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                                                                    
+                                                                
                                                                    
 
  
