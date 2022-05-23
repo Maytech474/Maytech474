@@ -7,7 +7,7 @@ Desenvolvedor Full-Stack Angular/ React/ Java / Node 🐱‍👤
 
 
 ### About me
-I'm a {backend, frontend and mobile} developer
+I'm a {backend, frontend and mobile} developer <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
 
 ![wp8903896 (1)](https://user-images.githubusercontent.com/56212999/168494590-a365e58b-99f0-45a1-bc2e-c1a160079cad.jpg)
 
@@ -20,7 +20,8 @@ I'm a {backend, frontend and mobile} developer
 
                                                                     <p>Thank you!</p>
                                                                     
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>                                                                    
+                                                                    
+                                                                   
 
  
 
