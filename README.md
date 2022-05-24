@@ -1,5 +1,5 @@
 #
-Desenvolvedor Full-Stack Angular/ React/ Java / JS 🐱‍👤
+Desenvolvedor Full-Stack | Angular| React | Java | JS 🐱‍👤
 # Hi, I'm Maicon! 👾🤖
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Maytech474/)](https://github.com/Maytech474/)
