@@ -4,6 +4,7 @@ Desenvolvedor Full-Stack | Angular | React | Java | JS 🐱‍👤
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Maytech474/)](https://github.com/Maytech474/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconbonfim-dev/)](https://www.linkedin.com/in/maiconbonfim-dev/)
+<a href="https://instagram.com/maicon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 ### About me
